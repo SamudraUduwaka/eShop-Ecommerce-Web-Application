@@ -1,0 +1,114 @@
+@font-face {
+    font-family: "Quicksand";
+    src: url("fonts/Quicksand-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Honey Script";
+    src: url("fonts/HoneyScript-Light.ttf");
+}
+
+* {
+    font-family: "Quicksand";
+}
+
+.label1 {
+    font-size: 16px;
+}
+
+.label2 {
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.carticon {
+    height: 28px;
+    background-image: url("resources/cartico.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+}
+
+.hrbreak1 {
+    border-style: solid;
+    border-color: silver;
+    border-width: 3px;
+}
+
+.logoimg {
+    height: 80px;
+    background-image: url("resources/logo.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.searchbtn {
+    height: 50px;
+}
+
+.link1 {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.posterimg1 {
+    height: 480px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.postercaption {
+    margin: 25px;
+}
+
+.postertitle {
+    color: black;
+    font-size: 55px;
+}
+
+.postertext {
+    font-size: 30px;
+    color: black;
+}
+
+.postercaption1 {
+    margin-bottom: 25px;
+    margin-right: 150px;
+}
+
+.link2 {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.link2:hover {
+    text-decoration: underline;
+}
+
+.link3 {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.link3:hover {
+    text-decoration: underline;
+}
+
+.cardTopImg {
+    height: 23vh;
+}
+
+.col-gap {
+    column-gap: 10px;
+}
+
+.page-item {
+    cursor: pointer;
+}
+
+.page-link {
+    border-radius: 6px;
+}
