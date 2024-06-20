@@ -1,0 +1,5 @@
+.message-box,
+.chatbox {
+    height: 510px;
+    overflow-y: scroll;
+}
