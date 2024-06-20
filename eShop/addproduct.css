@@ -1,0 +1,40 @@
+.lbl1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.pm {
+    height: 75px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pm1 {
+    background-image: url("resources/payment_method_images/paypal_img.png");
+}
+
+.pm2 {
+    background-image: url("resources/payment_method_images/visa_img.png");
+}
+
+.pm3 {
+    background-image: url("resources/payment_method_images/mastercard_img.png");
+}
+
+.pm4 {
+    background-image: url("resources/payment_method_images/american_express_img.png");
+}
+
+.productimg {
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-width: 2px;
+    border-radius: 8px;
+    border-color: blue;
+    border-style: solid;
+}
+
+.searchbtn {
+    height: 50px;
+}
